@@ -1,9 +1,7 @@
-## Hi there 👋
+<div style="text-align:center;">
+  JKCSS
+</div>
 
 
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ JKCSS - CSS Framework
 
 
