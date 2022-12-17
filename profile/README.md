@@ -4,7 +4,7 @@
 <p align="center"><b>JKCSS</b></p>
 <p align="center">A CSS Framework</p>
 
-<p>JKCSS 1</p>
+<p><b>JKCSS 1</b></p>
 
 
 
